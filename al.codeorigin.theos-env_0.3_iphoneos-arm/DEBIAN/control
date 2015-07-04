@@ -1,10 +1,11 @@
 Package: al.codeorigin.theos-env
 Name: Theos Environment
 Depends: org.coolstar.perl, make, rsync, git, org.coolstar.iostoolchain, openssh
-Version: 0.1
+Version: 0.3
 Architecture: iphoneos-arm
 Description: Metapackage that installs everything I use to develop on my device. 
  In order to install correctly, you must have coolstar's repo: http://coolstar.org/publicrepo
+Depiction: http://codeoriginal.github.io/repo/al.codeorigin.theos-env/index.html
 Maintainer: CodeOriginal
 Author: CodeOriginal
 Section: Development
